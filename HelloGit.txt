@@ -1,12 +1,12 @@
-This is my Complete java apllication file 
+//This is my Complete java apllication file 
 
-HEllo Git!!!
+//HEllo Git!!!
 
 class HelloGit{
 
-public static void main(String args){
+	public static void main(String args){
 
-sysout("Welcome to Git!!!");
-}
+		System.out.println("Welcome to Git!!!");
+	}
 
 }
