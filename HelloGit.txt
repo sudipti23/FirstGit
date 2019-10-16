@@ -3,6 +3,9 @@
 //HEllo Git!!!
 
 class HelloGit{
+	void myMethod(){
+	sysout("MyMethod");
+	}
 
 	public static void main(String args){
 
